@@ -1,0 +1,5 @@
+tensorflow
+wandb
+matplotlib
+seaborn
+scikit-learn
