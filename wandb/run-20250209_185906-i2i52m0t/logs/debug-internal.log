@@ -1,0 +1,24 @@
+{"time":"2025-02-09T18:59:07.3254565+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"c:\\Users\\Lenovo\\Documents\\Projects\\Kaggle\\Natural Language Processing With Disaster Tweets\\wandb\\run-20250209_185906-i2i52m0t\\logs\\debug-core.log"}
+{"time":"2025-02-09T18:59:07.5998308+07:00","level":"INFO","msg":"created new stream","id":"i2i52m0t"}
+{"time":"2025-02-09T18:59:07.5998308+07:00","level":"INFO","msg":"stream: started","id":"i2i52m0t"}
+{"time":"2025-02-09T18:59:07.5998308+07:00","level":"INFO","msg":"handler: started","stream_id":"i2i52m0t"}
+{"time":"2025-02-09T18:59:07.6003572+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"i2i52m0t"}
+{"time":"2025-02-09T18:59:07.6003572+07:00","level":"INFO","msg":"sender: started","stream_id":"i2i52m0t"}
+{"time":"2025-02-09T18:59:08.1435449+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-09T18:59:08.4357056+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T18:59:16.4298043+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T18:59:25.0859262+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T18:59:39.4632096+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T18:59:39.5389665+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T18:59:42.6657731+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T18:59:42.6703753+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:12:47.0746687+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:12:47.0780764+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-09T19:12:47.0799135+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-09T19:12:48.0820234+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4380186,"progress":"1.4KB/1.4KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4380186,"progress":"296B/296B"},{"desc":"uploading config.yaml","runtime_seconds":0.1775403,"progress":"1.6KB/1.6KB"}],"total_operations":3}}
+{"time":"2025-02-09T19:12:48.2285849+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-09T19:12:49.5230894+07:00","level":"INFO","msg":"stream: closing","id":"i2i52m0t"}
+{"time":"2025-02-09T19:12:49.5230894+07:00","level":"INFO","msg":"handler: closed","stream_id":"i2i52m0t"}
+{"time":"2025-02-09T19:12:49.5230894+07:00","level":"INFO","msg":"sender: closed","stream_id":"i2i52m0t"}
+{"time":"2025-02-09T19:12:49.5230894+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"i2i52m0t"}
+{"time":"2025-02-09T19:12:49.5236207+07:00","level":"INFO","msg":"stream: closed","id":"i2i52m0t"}

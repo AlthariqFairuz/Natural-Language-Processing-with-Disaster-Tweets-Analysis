@@ -1,0 +1,32 @@
+{"time":"2025-02-09T19:18:03.6122867+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"c:\\Users\\Lenovo\\Documents\\Projects\\Kaggle\\Natural Language Processing With Disaster Tweets\\wandb\\run-20250209_191803-ztnwxlel\\logs\\debug-core.log"}
+{"time":"2025-02-09T19:18:03.7387312+07:00","level":"INFO","msg":"created new stream","id":"ztnwxlel"}
+{"time":"2025-02-09T19:18:03.7387312+07:00","level":"INFO","msg":"stream: started","id":"ztnwxlel"}
+{"time":"2025-02-09T19:18:03.7387312+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"ztnwxlel"}
+{"time":"2025-02-09T19:18:03.7387312+07:00","level":"INFO","msg":"handler: started","stream_id":"ztnwxlel"}
+{"time":"2025-02-09T19:18:03.7387312+07:00","level":"INFO","msg":"sender: started","stream_id":"ztnwxlel"}
+{"time":"2025-02-09T19:18:04.6792171+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-09T19:18:04.874178+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:18:05.6431952+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:18:16.0700499+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:18:16.557272+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:18:16.908159+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:18:16.9130286+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:18:16.9159442+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:18:16.9230766+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:18:16.9293233+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:18:16.9369019+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:18:16.9428807+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:18:17.0705422+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:18:17.0744733+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:18:17.3790504+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:18:17.3827811+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:18:19.2857814+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:18:19.28848+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-09T19:18:19.2890565+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-09T19:18:20.1583723+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-09T19:18:20.3009787+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-4, summary, console lines 0-10","runtime_seconds":0.1426064}],"total_operations":1}}
+{"time":"2025-02-09T19:18:21.5479615+07:00","level":"INFO","msg":"stream: closing","id":"ztnwxlel"}
+{"time":"2025-02-09T19:18:21.5479615+07:00","level":"INFO","msg":"handler: closed","stream_id":"ztnwxlel"}
+{"time":"2025-02-09T19:18:21.5479615+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ztnwxlel"}
+{"time":"2025-02-09T19:18:21.5479615+07:00","level":"INFO","msg":"sender: closed","stream_id":"ztnwxlel"}
+{"time":"2025-02-09T19:18:21.5479615+07:00","level":"INFO","msg":"stream: closed","id":"ztnwxlel"}

@@ -1,0 +1,34 @@
+{"time":"2025-02-09T19:15:40.1609449+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"c:\\Users\\Lenovo\\Documents\\Projects\\Kaggle\\Natural Language Processing With Disaster Tweets\\wandb\\run-20250209_191540-zd82j2sk\\logs\\debug-core.log"}
+{"time":"2025-02-09T19:15:40.2994197+07:00","level":"INFO","msg":"created new stream","id":"zd82j2sk"}
+{"time":"2025-02-09T19:15:40.2994197+07:00","level":"INFO","msg":"stream: started","id":"zd82j2sk"}
+{"time":"2025-02-09T19:15:40.2994197+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"zd82j2sk"}
+{"time":"2025-02-09T19:15:40.2994197+07:00","level":"INFO","msg":"handler: started","stream_id":"zd82j2sk"}
+{"time":"2025-02-09T19:15:40.2994197+07:00","level":"INFO","msg":"sender: started","stream_id":"zd82j2sk"}
+{"time":"2025-02-09T19:15:40.7524216+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-09T19:15:40.9344388+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:15:41.7639495+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:16:00.4750756+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:16:00.4819925+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:16:00.4859984+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:16:00.4941747+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:16:00.4978678+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:16:00.5050178+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:16:00.5101446+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:16:00.5146201+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:16:00.5183731+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:16:00.5244886+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:16:01.2502119+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:16:01.2577955+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:16:01.2644717+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:16:01.2707486+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:16:01.2757793+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-09T19:16:01.2829811+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-09T19:16:01.2862641+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-09T19:16:01.2867729+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-09T19:16:02.1694397+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-09T19:16:02.3019157+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 3-4, summary, console lines 7-10","runtime_seconds":0.132476}],"total_operations":1}}
+{"time":"2025-02-09T19:16:03.5607945+07:00","level":"INFO","msg":"stream: closing","id":"zd82j2sk"}
+{"time":"2025-02-09T19:16:03.5607945+07:00","level":"INFO","msg":"handler: closed","stream_id":"zd82j2sk"}
+{"time":"2025-02-09T19:16:03.5607945+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zd82j2sk"}
+{"time":"2025-02-09T19:16:03.5607945+07:00","level":"INFO","msg":"sender: closed","stream_id":"zd82j2sk"}
+{"time":"2025-02-09T19:16:03.5607945+07:00","level":"INFO","msg":"stream: closed","id":"zd82j2sk"}
