@@ -30,8 +30,8 @@ Before running the project, you'll need to set up authentication for necessary s
 
 1. Clone the repository:
   ```bash
-    git clone https://github.com/AlthariqFairuz/disaster-tweets-predictions.git
-    cd disaster-tweets-predictions
+    git clone https://github.com/AlthariqFairuz/Natural-Language-Processing-with-Disaster-Tweets-Analysis.git
+    cd Natural-Language-Processing-with-Disaster-Tweets-Analysis
   ```
 
 2. Install dependencies:
